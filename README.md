@@ -1,6 +1,6 @@
 # github-issue-reproducer
 
-A small CLI for saving a GitHub issue next to the reproduction steps you choose to run. It never guesses or generates a reproduction for you.
+Save a GitHub issue and run reproduction steps that you configure. The CLI stores logs and selected files so you can share the setup and results. It does not generate reproduction steps.
 
 ## Install
 
