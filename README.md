@@ -1,4 +1,7 @@
-# github-issue-reproducer
+# GitHub Issue Reproducer
+
+[![Language](https://img.shields.io/github/languages/top/ulrichheringer/github-issue-reproducer?logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![License: MIT](https://img.shields.io/github/license/ulrichheringer/github-issue-reproducer)](LICENSE)
 
 Save a GitHub issue and run reproduction steps that you configure. The CLI stores logs and selected files so you can share the setup and results. It does not generate reproduction steps.
 
